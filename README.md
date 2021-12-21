@@ -1,4 +1,4 @@
-# Predicting Customer Churn for Telecommunication Company
+# Who goes or stays?
 
 ## Project Overview
 I conducted an exploratory data analysis of the customer data of a telecommunication company. I also used a logistic regression for customer segmentation to predict churn. Insights from the analysis can  inform the company on winning strategies for retention of high value customers.
