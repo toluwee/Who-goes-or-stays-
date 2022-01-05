@@ -12,6 +12,6 @@ I conducted an exploratory data analysis of the customer data of a telecommunica
 ## Objective
 To create a machine learning model that can adequately predict customer churn
 
-## Outcome
+<!-- ## Outcome -->
 <!-- ![](Output.png)
  -->
